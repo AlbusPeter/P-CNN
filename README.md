@@ -7,4 +7,6 @@ Different from the original algorithm, I use the **Pose** estimated by [Realtime
 2. Run the PCNN.py to extract the feature vectors for classification.
 3. Run the linearSVM.py to classify actions by a linear SVM.
 
-Note, you should do some minor changes to accomadate this demo to your own coding environment. I pre-extract the **Flow** and **Pose** features for each frame so I could use a Dataloader to input the data to the networks efficiently. You should change the data folder as well as some data input
+Note, you should do some minor changes to accomadate this demo to your own coding environment. I pre-extract the **Flow** and **Pose** features for each frame so I could use a Dataloader to input the data to the networks efficiently. You should change the data folder as well as some data input.
+
+Feel free to contact me if you have any question.
